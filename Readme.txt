@@ -1,0 +1,1 @@
+This folder will be used to store the C# projects which has been determined as homework in the course the Fundation of Software Structure.
